@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夜になったら耿十八は (Cover)",
+  "base_artist": "dongdang",
+  "createdAt": "2025-12-11T21:56:58.113607Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜になったら耿十八は",
+      "artist": "Peg",
+      "has_synced": false,
+      "path": "select/01_夜になったら耿十八は_Peg.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜になったら耿十八は (Cover)",
+      "artist": "dongdang",
+      "has_synced": false,
+      "path": "select/pl_01_夜になったら耿十八は_(Cover)_dongdang.txt"
+    }
+  ]
+}
